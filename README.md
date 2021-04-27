@@ -16,9 +16,9 @@ I created this because I needed a Sketch library for creating Bootstrap 5 based 
 ----
 
 ## Quickstart
- - Download the latest release
+ - Download the [latest release](https://github.com/AdamJ/Bootstrap5-sketch/releases/).
 OR
- - Add to your Sketch Libraries (under Third Part Libraries).
+ - [Add to your Sketch Libraries](https://www.sketch.com/s/bda12640-43a6-4271-b83a-0f88f50a80e9) (under Third Part Libraries).
 
 ## Resources
  - [Bootstrap](https://getbootstrap.com)
@@ -29,6 +29,7 @@ OR
 ## Status
 ![GitHub last commit](https://img.shields.io/github/last-commit/AdamJ/Bootstrap5-sketch?color=%2321476b&style=for-the-badge)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/AdamJ/Bootstrap5-sketch?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/AdamJ/Bootstrap5-sketch/total?style=for-the-badge)
 
 ----
 
