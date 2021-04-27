@@ -27,7 +27,7 @@ OR
 ----
 
 ## Status
-[GitHub last commit](https://img.shields.io/github/last-commit/AdamJ/Bootstrap5-sketch?color=%2321476b&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/AdamJ/Bootstrap5-sketch?color=%2321476b&style=for-the-badge)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/AdamJ/Bootstrap5-sketch?style=for-the-badge)
 
 ----
