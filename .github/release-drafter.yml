@@ -1,0 +1,48 @@
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+categories:
+  - title: 'Enhancements'
+    labels:
+      - 'enhancement'
+  - title: 'Bug Fixes'
+    labels:
+      - 'bug'
+  - title: 'Maintenance'
+    labels:
+      - 'security'
+      - 'github-action'
+exclude-labels:
+  - 'duplicate'
+  - 'invalid'
+  - 'questions'
+  - 'wontfix'
+change-template: '- #$NUMBER $TITLE (@$AUTHOR)'
+version-resolver:
+  major:
+    labels:
+      - 'enhancement'
+      - 'major'
+  minor:
+    labels:
+      - 'bug'
+      - 'minor'
+  patch:
+    labels:
+      - 'security'
+      - 'github-action'
+      - 'patch'
+  default: minor
+template: |
+  ## Changes in this release
+
+  $CHANGES
+
+  ## Contributors to this release
+
+  $CONTRIBUTORS
+
+  ## Previous tag
+
+  $PREVIOUS_TAG
+no-changes-template: |
+  Confusingly, There were no changes in this release
