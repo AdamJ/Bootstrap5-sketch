@@ -8,10 +8,31 @@ A Sketch library of Bootstrap 5 components and examples. Not official and not gu
 The intended purpose of this library is to provide a starting point for designing with the Bootstrap front-end toolkit.
 
 ### Customizations
-The majority of the components are based as close to the Bootstrap 5 (beta3) version as possible. I have made custom components and layouts based on my needs that you may or may not wish to use. Any custom components do not have corresponding code available for use.
+The majority of the components are based as close to the Bootstrap 5 version as possible. I have made custom components and layouts based on my needs that you may or may not wish to use. Any custom components do not have corresponding code available for use.
 
 ### Why?
-I created this because I needed a Sketch library for creating Bootstrap 5 based sites. As Bootstrap 5 is still in beta (at the start of this project), I figured why not get an early jump on a library of my own.
+I created this because I needed a Sketch library for creating Bootstrap 5 based sites. I figured why not create a Sketch library for others to use as well.
+
+----
+
+## Components available
+- Alert (v0.6.0)
+- Badges
+- Breadcrumbs
+- Buttons
+- Cards
+- Forms
+- Icons (assorted)
+- Labels
+- Modal (v0.6.0)
+- Nav
+- Pills
+- Popover (v0.6.0)
+- Spacer
+- Spinner (v0.6.0)
+- Tables
+- Tabs
+- Toasts (v0.6.0)
 
 ----
 
